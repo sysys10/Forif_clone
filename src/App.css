@@ -1,7 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-.left
+.left-47{
+  left:47%;
+}
 :root {
   height: 100%;
   scroll-behavior: smooth;
